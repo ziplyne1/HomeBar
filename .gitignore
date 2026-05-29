@@ -17,7 +17,7 @@ DerivedData/
 # Rust / Cargo
 CLI/.build/
 CLI/target/
-Cargo.lock   # omit this line if you want to keep it (see note)
+CLI/Cargo.lock
 
 # macOS
 .DS_Store
