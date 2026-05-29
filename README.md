@@ -1,2 +1,2 @@
 # HomeBar
-A HomeAssistant client for the macOS Menu Bar
+A Home Assistant client for the macOS Menu Bar
