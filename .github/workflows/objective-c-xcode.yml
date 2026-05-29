@@ -9,7 +9,7 @@ on:
 jobs:
   test:
     name: Test default scheme
-    runs-on: macos-latest
+    runs-on: macos-26 # Ideally this would be macos-latest but that wasn't working
     defaults:
       run:
         working-directory: Mac App
